@@ -33,5 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          docker build -t sample_image .
+          #docker build -t sample_image .
           echo test, and deploy your project.
